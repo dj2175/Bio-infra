@@ -1,2 +1,4 @@
 # Bio-infra
-This project aims to develop an eco-friendly, and durable  manufacturing process by leveraging cyanobacteria for CO2 fixation and CaCO3 production
+This project aims to develop an eco-friendly, and durable  manufacturing process by leveraging cyanobacteria for CO2 fixation and CaCO3 production.
+
+In the face of escalating climate change and waste management challenges, there is an urgent need for innovative solutions that address both carbon dioxide emissions and efficient utilization of agricultural waste. Traditional manufacturing processes for infrastructure materials  are resource-intensive and contribute significantly to environmental degradation. This project aims to develop an eco-friendly, cost-effective, and durable  manufacturing process by leveraging cyanobacteria for CO2 fixation and CaCO3 production, incorporating agricultural waste, sand, and gelatin, and enhancing hydrophobicity using water hyacinth leaf extract
